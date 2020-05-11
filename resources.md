@@ -17,6 +17,8 @@
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
+- [Ken Wheeler JavaScript Tutorials](https://www.youtube.com/channel/UCozKnxtgtSifBKDO4j_czOA)
+
 ### Not Free (but extremely reasonable)
 
 - [Udemy](https://www.udemy.com/) - always wait for their fire sales!
