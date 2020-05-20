@@ -49,6 +49,18 @@ All these books are available on amazon.com.
 
 - [Webstorm](https://www.jetbrains.com/webstorm/) (what I have had for a long time and have switched back to it. It's fantastic, and a full blown Integrated Development Environment, aka IDE.) - it is not free, but for those of you that are serious about continuing to learn JavaScript, I highly recommend it. It is not expensive either. Check it out here: [Webstorm JavaScript IDE](https://www.jetbrains.com/webstorm/)
 
+### Communities
+
+[Dev.to](https://dev.to/)
+
+[CodeNewbies](https://www.codenewbie.org/)
+
+### Presentations (Mine)
+
+[Evolution of Design and Development: A Melting Pot](https://interglobalmedia.github.io/evolution-in-design-and-development/#0)
+
+[React Workflows Without Create-React_App](https://interglobalmedia.github.io/react-workflow-updated-2018/#/)
+
 Make sure to download the complete private course repository asap. I don't know how much longer I will have that one up. I have to make room for the next one!
 
 As you get deeper into "the rabbit hole", you will start finding your own favorite resources!
